@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Course – Camera</string>
+    <string name="title_app">📷 Learn to Use the Camera</string>
+    <string name="pedagogical_description">
+        In this practice you will learn:\n\n
+        • How to request runtime permissions\n
+        • How to open the camera with an implicit Intent\n
+        • How to save photos with FileProvider\n
+        • How to pass data between Activities with Intent Extras
+    </string>
+    <string name="btn_take_photo">Take Photo</string>
+    <string name="permissions_ok">✅ Permissions granted. Ready to take photos.</string>
+    <string name="permission_camera_denied">❌ Camera permission denied. The app needs this permission to work.</string>
+    <string name="permission_camera_denied_permanent">⚠️ Permission permanently denied. Go to Settings → Apps → Permissions to enable it.</string>
+    <string name="checking_permissions">🔍 Checking permissions…</string>
+    <string name="error_creating_file">❌ Error creating image file. Please try again.</string>
+    <string name="photo_cancelled">📷 Photo cancelled. Press the button to try again.</string>
+    <string name="title_preview">Captured Photo</string>
+    <string name="btn_back">← Back</string>
+    <string name="label_file_path">Saved file path:</string>
+    <string name="photo_not_available">Could not load the image.</string>
+</resources>
